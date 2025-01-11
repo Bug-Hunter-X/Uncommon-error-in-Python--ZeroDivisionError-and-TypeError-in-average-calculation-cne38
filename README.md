@@ -1,0 +1,2 @@
+# Python ZeroDivisionError and TypeError in Average Calculation
+This repository demonstrates a common error in Python, ZeroDivisionError and TypeError that occurs when calculating the average of a list of numbers, especially when dealing with empty lists or lists containing non-numeric values.  The example code showcases the error and its resolution.  The solution is robust, handling various edge cases effectively.
